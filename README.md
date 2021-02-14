@@ -1,5 +1,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=denis256&show_icons=true&count_private=true)
 
+![](https://www.clickfabric.com/wp-content/uploads/2020/06/kubernetes_logo_500x500-300x291.png)
+
 <!--
 **denis256/denis256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,9 +2,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=denis256&show_icons=true&count_private=true)
 
-- 🔭 I’m currently working on Cloud Native Applications
-- 📫 How to reach me: denis.o`]at[`linux.com
-
 
 <!--
 **denis256/denis256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

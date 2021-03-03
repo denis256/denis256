@@ -1,4 +1,3 @@
-![](https://www.docker.com/blog/wp-content/uploads/2019/09/docker-kubernetes.png)
 
 ![](https://github-readme-stats.vercel.app/api?username=denis256&show_icons=true&count_private=true)
 
